@@ -2,7 +2,7 @@
 Creates HTML photo albums from pictures
 
 Fake Manual Page :
-
+```
 General Commands Manual					palbum(1)
 
 NAME
@@ -134,3 +134,4 @@ SEE ALSO
 	bash(1)
 
 palbum(1)				General Commands Manual					palbum(1)
+	```
